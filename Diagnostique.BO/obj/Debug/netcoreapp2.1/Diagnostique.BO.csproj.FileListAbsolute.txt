@@ -1,0 +1,96 @@
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.deps.json
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.json
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.dev.json
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csproj.CoreCompileInputs.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfoInputs.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorTargetAssemblyInfo.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostique_Server\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.deps.json
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.json
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.dev.json
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csproj.CoreCompileInputs.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfoInputs.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorTargetAssemblyInfo.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csprojAssemblyReference.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.deps.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.dev.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csprojAssemblyReference.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csproj.CoreCompileInputs.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfoInputs.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorTargetAssemblyInfo.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.deps.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.dev.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csprojAssemblyReference.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csproj.CoreCompileInputs.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfoInputs.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorTargetAssemblyInfo.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.deps.json
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.json
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.dev.json
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csproj.CoreCompileInputs.cache
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cache
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cs
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfoInputs.cache
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfo.cs
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorTargetAssemblyInfo.cache
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.deps.json
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.json
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.dev.json
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csprojAssemblyReference.cache
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csproj.CoreCompileInputs.cache
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cache
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cs
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfoInputs.cache
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfo.cs
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorTargetAssemblyInfo.cache
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.deps.json
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.json
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.runtimeconfig.dev.json
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csprojAssemblyReference.cache
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.csproj.CoreCompileInputs.cache
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cache
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorAssemblyInfo.cs
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfoInputs.cache
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.AssemblyInfo.cs
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.RazorTargetAssemblyInfo.cache
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.dll
+F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.BO\obj\Debug\netcoreapp2.1\Diagnostique.BO.pdb

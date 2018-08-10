@@ -1,0 +1,105 @@
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.pdb
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.deps.json
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.json
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.dev.json
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.pdb
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.pdb
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csprojAssemblyReference.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CoreCompileInputs.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfoInputs.cache
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CopyComplete
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.dll
+C:\Users\rdeivanayagame\source\repos\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.deps.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.dev.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csprojAssemblyReference.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CoreCompileInputs.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfoInputs.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CopyComplete
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\Diagnostiques\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.deps.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.dev.json
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.pdb
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csprojAssemblyReference.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CoreCompileInputs.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfoInputs.cache
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfo.cs
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CopyComplete
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.dll
+C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.pdb
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.pdb
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.deps.json
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.json
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.dev.json
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.pdb
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.pdb
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csprojAssemblyReference.cache
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CoreCompileInputs.cache
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfoInputs.cache
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfo.cs
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CopyComplete
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.dll
+F:\Desktop\fresh app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.pdb
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.Views.pdb
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.deps.json
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.json
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.runtimeconfig.dev.json
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.Test.pdb
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.BO.pdb
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\bin\Debug\netcoreapp2.1\Diagnostique.FO.pdb
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csprojAssemblyReference.cache
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CoreCompileInputs.cache
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfoInputs.cache
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.AssemblyInfo.cs
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.csproj.CopyComplete
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.dll
+F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\DiagnoInfoTerrain.Test\obj\Debug\netcoreapp2.1\Diagnostique.Test.pdb

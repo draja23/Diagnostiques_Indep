@@ -1,0 +1,29 @@
+2018-08-10T16:33:14.5713005+02:00  [INF] Starting create-react-app server on port 53931... (7f0fd4f2)
+2018-08-10T16:33:15.0266785+02:00 0HLFUPOQGGJ25:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-10T16:33:15.0266785+02:00 0HLFUPOQGGJ26:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/   (ca22a1cb)
+2018-08-10T16:33:15.0651322+02:00 0HLFUPOQGGJ25:00000001 [INF] Request finished in 39.6886ms 200  (791a596a)
+2018-08-10T16:33:17.9368344+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh_app\Diagnostiques_Indep\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (fcd39897)
+2018-08-10T16:33:23.4610968+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-10T16:33:23.4632281+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-10T16:33:23.6822446+02:00 0HLFUPOQGGJ26:00000001 [INF] Request finished in 8588.7163ms 304  (791a596a)
+2018-08-10T16:33:23.6834849+02:00 0HLFUPOQGGJ25:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js   (ca22a1cb)
+2018-08-10T16:33:23.7728389+02:00 0HLFUPOQGGJ25:00000002 [INF] Request finished in 113.0752ms 304  (791a596a)
+2018-08-10T16:33:24.0145190+02:00 0HLFUPOQGGJ26:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/info?t=1533911604005   (ca22a1cb)
+2018-08-10T16:33:24.0654013+02:00 0HLFUPOQGGJ26:00000002 [INF] Request finished in 42.245ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-10T16:33:24.0661478+02:00 0HLFUPOQGGJ25:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/favicon.ico   (ca22a1cb)
+2018-08-10T16:33:24.0892825+02:00 0HLFUPOQGGJ26:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/favicon.ico   (ca22a1cb)
+2018-08-10T16:33:24.0917497+02:00 0HLFUPOQGGJ27:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/004/s3g21ezt/websocket   (ca22a1cb)
+2018-08-10T16:33:24.1312193+02:00 0HLFUPOQGGJ25:00000003 [INF] Request finished in 55.4789ms 304  (791a596a)
+2018-08-10T16:33:24.1468677+02:00 0HLFUPOQGGJ26:00000003 [INF] Request finished in 58.3567ms 200 image/x-icon (791a596a)
+2018-08-10T16:33:24.8094000+02:00 0HLFUPOQGGJ25:00000004 [INF] Request starting HTTP/1.1 POST http://localhost:44301/sockjs-node/004/wpc4bbd4/xhr_streaming?t=1533911604804  0 (ca22a1cb)
+2018-08-10T16:33:25.4259461+02:00 0HLFUPOQGGJ28:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-10T16:33:25.4699428+02:00 0HLFUPOQGGJ28:00000001 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-10T16:33:25.5583396+02:00 0HLFUPOQGGJ28:00000001 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)

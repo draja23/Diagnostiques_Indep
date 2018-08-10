@@ -1,0 +1,385 @@
+2018-08-02T10:15:28.6115505+02:00  [INF] Starting create-react-app server on port 50203... (d8370d40)
+2018-08-02T10:15:29.1795635+02:00 0HLFOA0DSRRNS:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52249/  0 (ca22a1cb)
+2018-08-02T10:15:29.1795635+02:00 0HLFOA0DSRRNR:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:52249/   (ca22a1cb)
+2018-08-02T10:15:29.2167408+02:00 0HLFOA0DSRRNR:00000001 [INF] Request redirected to HTTPS (a792eeb1)
+2018-08-02T10:15:29.2168499+02:00 0HLFOA0DSRRNS:00000001 [INF] Request finished in 54.8364ms 200  (791a596a)
+2018-08-02T10:15:29.2218714+02:00 0HLFOA0DSRRNR:00000001 [INF] Request finished in 63.1245ms 301  (791a596a)
+2018-08-02T10:15:32.6181917+02:00  [INF] > Diagnostique_Client@0.1.0 start C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (4a15a911)
+2018-08-02T10:16:09.3183295+02:00  [INF] Starting create-react-app server on port 50260... (ddb67cd3)
+2018-08-02T10:16:09.8230552+02:00 0HLFOA0Q0QF93:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:16:09.8230553+02:00 0HLFOA0Q0QF94:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:52248/   (ca22a1cb)
+2018-08-02T10:16:09.8453623+02:00 0HLFOA0Q0QF94:00000001 [INF] Request redirected to HTTPS (a792eeb1)
+2018-08-02T10:16:09.8499637+02:00 0HLFOA0Q0QF93:00000001 [INF] Request finished in 28.8548ms 200  (791a596a)
+2018-08-02T10:16:09.8516808+02:00 0HLFOA0Q0QF94:00000001 [INF] Request finished in 33.3078ms 301  (791a596a)
+2018-08-02T10:16:12.4163169+02:00  [INF] > Diagnostique_Client@0.1.0 start C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (4a15a911)
+2018-08-02T10:23:13.4989766+02:00  [INF] Starting create-react-app server on port 50577... (cf094d99)
+2018-08-02T10:23:13.8855481+02:00 0HLFOA4OD8HF3:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:23:13.9147535+02:00 0HLFOA4OD8HF3:00000001 [INF] Request finished in 29.5165ms 200  (791a596a)
+2018-08-02T10:23:16.5450225+02:00  [INF] > Diagnostique_Client@0.1.0 start C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (4a15a911)
+2018-08-02T10:24:08.2132009+02:00  [INF] Starting create-react-app server on port 50645... (d623e2c1)
+2018-08-02T10:24:08.6216940+02:00 0HLFOA58NA4D1:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:24:08.6455755+02:00 0HLFOA58NA4D1:00000001 [INF] Request finished in 23.8842ms 200  (791a596a)
+2018-08-02T10:24:11.2765366+02:00  [INF] > Diagnostique_Client@0.1.0 start C:\Users\rdeivanayagame\source\repos\Back-Up\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (4a15a911)
+2018-08-02T10:24:17.2077502+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T10:24:17.2178809+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T10:24:36.5904100+02:00  [INF] Starting create-react-app server on port 50712... (226a67cc)
+2018-08-02T10:24:36.8297480+02:00 0HLFOA5H48HSF:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:24:36.8533906+02:00 0HLFOA5H48HSF:00000001 [INF] Request finished in 24.6441ms 200  (791a596a)
+2018-08-02T10:35:50.2219375+02:00  [INF] Starting create-react-app server on port 51081... (e830834f)
+2018-08-02T10:35:50.6012632+02:00 0HLFOABPTPD9V:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:35:50.6271925+02:00 0HLFOABPTPD9V:00000001 [INF] Request finished in 26.5343ms 200  (791a596a)
+2018-08-02T10:35:53.0491862+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (eb706ebf)
+2018-08-02T10:38:37.8672350+02:00  [INF] Starting create-react-app server on port 51236... (9fcdd7dd)
+2018-08-02T10:38:38.3398886+02:00 0HLFOADBTF3E4:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:38:38.3626221+02:00 0HLFOADBTF3E4:00000001 [INF] Request finished in 22.2879ms 200  (791a596a)
+2018-08-02T10:38:40.7217988+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (eb706ebf)
+2018-08-02T10:40:20.7246523+02:00  [INF] Starting create-react-app server on port 51269... (2d156adb)
+2018-08-02T10:40:21.1781727+02:00 0HLFOAEAI73T6:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:40:21.1781650+02:00 0HLFOAEAI73T7:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:52248/   (ca22a1cb)
+2018-08-02T10:40:21.2060626+02:00 0HLFOAEAI73T7:00000001 [INF] Request redirected to HTTPS (a792eeb1)
+2018-08-02T10:40:21.2067332+02:00 0HLFOAEAI73T6:00000001 [INF] Request finished in 27.2276ms 200  (791a596a)
+2018-08-02T10:40:21.2105537+02:00 0HLFOAEAI73T7:00000001 [INF] Request finished in 35.4724ms 301  (791a596a)
+2018-08-02T10:40:23.6381125+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (eb706ebf)
+2018-08-02T10:40:29.8989721+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T10:40:29.9018121+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T10:41:32.7992735+02:00  [INF] Starting create-react-app server on port 51296... (a9cdaf90)
+2018-08-02T10:41:33.1813850+02:00 0HLFOAF00STHR:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:41:33.2132585+02:00 0HLFOAF00STHR:00000001 [INF] Request finished in 33.074ms 200  (791a596a)
+2018-08-02T10:41:35.6366512+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (eb706ebf)
+2018-08-02T10:42:01.5579511+02:00  [INF] Starting create-react-app server on port 51308... (5b22f10a)
+2018-08-02T10:42:01.9331877+02:00 0HLFOAF8J020S:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:52248/   (ca22a1cb)
+2018-08-02T10:42:01.9331857+02:00 0HLFOAF8J020R:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:42:01.9554404+02:00 0HLFOAF8J020S:00000001 [INF] Request redirected to HTTPS (a792eeb1)
+2018-08-02T10:42:01.9588537+02:00 0HLFOAF8J020R:00000001 [INF] Request finished in 29.1458ms 200  (791a596a)
+2018-08-02T10:42:01.9596615+02:00 0HLFOAF8J020S:00000001 [INF] Request finished in 31.5047ms 301  (791a596a)
+2018-08-02T10:42:04.2981484+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (eb706ebf)
+2018-08-02T10:42:09.5104973+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T10:42:09.5135361+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T10:44:00.3431153+02:00  [INF] Starting create-react-app server on port 51337... (9de1dcbc)
+2018-08-02T10:44:00.6552312+02:00 0HLFOAGBV8J6K:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/   (ca22a1cb)
+2018-08-02T10:44:00.6523875+02:00 0HLFOAGBV8J6L:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:44:00.6854107+02:00 0HLFOAGBV8J6L:00000001 [INF] Request finished in 35.4195ms 200  (791a596a)
+2018-08-02T10:44:03.1279077+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (eb706ebf)
+2018-08-02T10:44:08.3030659+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T10:44:08.3048111+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T10:44:08.5162708+02:00 0HLFOAGBV8J6K:00000001 [INF] Request finished in 7865.6413ms 200 text/html; charset=UTF-8 (791a596a)
+2018-08-02T10:44:08.5619696+02:00 0HLFOAGBV8J6L:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js   (ca22a1cb)
+2018-08-02T10:44:08.7333524+02:00 0HLFOAGBV8J6L:00000002 [INF] Request finished in 170.6813ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-08-02T10:44:09.0232642+02:00 0HLFOAGBV8J6K:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js.map   (ca22a1cb)
+2018-08-02T10:44:09.1169473+02:00 0HLFOAGBV8J6K:00000002 [INF] Request finished in 93.4925ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T10:44:09.3967612+02:00 0HLFOAGBV8J6L:00000003 [INF] Request starting HTTP/1.1 HEAD http://localhost:44301/static/js/webpack.config.js   (ca22a1cb)
+2018-08-02T10:44:09.4316752+02:00 0HLFOAGBV8J6L:00000003 [INF] Request finished in 34.5415ms 404 text/html; charset=utf-8 (791a596a)
+2018-08-02T10:44:09.4343312+02:00 0HLFOAGBV8J6K:00000003 [INF] Request starting HTTP/1.1 HEAD http://localhost:44301/static/webpack.config.js   (ca22a1cb)
+2018-08-02T10:44:09.4643816+02:00 0HLFOAGBV8J6K:00000003 [INF] Request finished in 29.9893ms 404 text/html; charset=utf-8 (791a596a)
+2018-08-02T10:44:09.4666947+02:00 0HLFOAGBV8J6L:00000004 [INF] Request starting HTTP/1.1 HEAD http://localhost:44301/webpack.config.js   (ca22a1cb)
+2018-08-02T10:44:09.4987342+02:00 0HLFOAGBV8J6L:00000004 [INF] Request finished in 29.7037ms 404 text/html; charset=utf-8 (791a596a)
+2018-08-02T10:44:11.8268098+02:00 0HLFOAGBV8J6K:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44301/favicon.ico   (ca22a1cb)
+2018-08-02T10:44:11.8632972+02:00 0HLFOAGBV8J6L:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/info?t=1533199451827   (ca22a1cb)
+2018-08-02T10:44:11.8957142+02:00 0HLFOAGBV8J6K:00000004 [INF] Request finished in 70.1475ms 200 image/x-icon (791a596a)
+2018-08-02T10:44:12.9515387+02:00 0HLFOAGBV8J6L:00000005 [INF] Request finished in 1085.9649ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T10:44:12.9598404+02:00 0HLFOAGBV8J6K:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/420/mmovoxyx/websocket   (ca22a1cb)
+2018-08-02T10:44:16.6009837+02:00 0HLFOAGBV8J6L:00000006 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-02T10:44:16.6434328+02:00 0HLFOAGBV8J6L:00000006 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:44:16.7220120+02:00 0HLFOAGBV8J6L:00000006 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:44:18.1933672+02:00 0HLFOAGBV8J6L:00000006 [INF] Executed action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 1466.1447ms. (50a9e262)
+2018-08-02T10:44:18.2086826+02:00 0HLFOAGBV8J6L:00000006 [INF] Executing ObjectResult, writing value of type '"Newtonsoft.Json.Linq.JObject"'. (8a1b66c8)
+2018-08-02T10:44:18.2222078+02:00 0HLFOAGBV8J6L:00000006 [INF] Executed action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" in 1573.6809ms (afa2e885)
+2018-08-02T10:44:18.2243551+02:00 0HLFOAGBV8J6L:00000006 [INF] Request finished in 1623.6493ms 200 application/json; charset=utf-8 (791a596a)
+2018-08-02T10:44:18.6802895+02:00 0HLFOAGBV8J6L:00000007 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/media/glyphicons-halflings-regular.f4769f9b.eot?   (ca22a1cb)
+2018-08-02T10:44:19.7226579+02:00 0HLFOAGBV8J6L:00000007 [INF] Request finished in 1042.3028ms 200 application/vnd.ms-fontobject; charset=UTF-8 (791a596a)
+2018-08-02T10:44:31.4428497+02:00 0HLFOAGBV8J6L:00000008 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/SourceFo/SelectionDonneesSourceAsync?premierDateCom=Invalid%20date&derniereDateCom=Invalid%20date&premierFactureDateCom=Invalid%20date&DernierFactureDateCom=Invalid%20date&nom=&prenom=&secteur=   (ca22a1cb)
+2018-08-02T10:44:31.4498161+02:00 0HLFOAGBV8J6L:00000008 [INF] Route matched with "{action = \"SelectionDonneesSourceAsync\", controller = \"SourceFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.SourceFoController.SelectionDonneesSourceAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:44:31.4713063+02:00 0HLFOAGBV8J6L:00000008 [INF] Executing action method "Diagnostique.FO.Controllers.SourceFoController.SelectionDonneesSourceAsync (Diagnostique.FO)" with arguments (["Invalid date", "Invalid date", "Invalid date", "Invalid date", "", "", ""]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:44:31.6186600+02:00 0HLFOAGBV8J6L:00000008 [INF] Executed action method "Diagnostique.FO.Controllers.SourceFoController.SelectionDonneesSourceAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 145.5928ms. (50a9e262)
+2018-08-02T10:44:31.6205339+02:00 0HLFOAGBV8J6L:00000008 [INF] Executing ObjectResult, writing value of type '"System.Collections.Generic.List`1[[System.Object, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (8a1b66c8)
+2018-08-02T10:44:31.6236177+02:00 0HLFOAGBV8J6L:00000008 [INF] Executed action "Diagnostique.FO.Controllers.SourceFoController.SelectionDonneesSourceAsync (Diagnostique.FO)" in 172.1215ms (afa2e885)
+2018-08-02T10:44:31.6255512+02:00 0HLFOAGBV8J6L:00000008 [INF] Request finished in 182.8184ms 200 application/json; charset=utf-8 (791a596a)
+2018-08-02T10:44:33.4373613+02:00 0HLFOAGBV8J6K:00000005 [INF] Request finished in 20476.0351ms 101  (791a596a)
+2018-08-02T10:49:13.2981075+02:00  [INF] Starting create-react-app server on port 51442... (2fecf906)
+2018-08-02T10:49:13.5424750+02:00 0HLFOAJ976NIR:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/   (ca22a1cb)
+2018-08-02T10:49:13.5424750+02:00 0HLFOAJ976NIS:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:49:13.5728898+02:00 0HLFOAJ976NIS:00000001 [INF] Request finished in 32.4899ms 200  (791a596a)
+2018-08-02T10:49:16.1485950+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (eb706ebf)
+2018-08-02T10:49:21.3674592+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T10:49:21.3709239+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T10:49:21.5234008+02:00 0HLFOAJ976NIR:00000001 [INF] Request finished in 7971.9954ms 304  (791a596a)
+2018-08-02T10:49:21.7242500+02:00 0HLFOAJ976NIS:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js   (ca22a1cb)
+2018-08-02T10:49:21.7909932+02:00 0HLFOAJ976NIS:00000002 [INF] Request finished in 66.7326ms 304  (791a596a)
+2018-08-02T10:49:22.1115833+02:00 0HLFOAJ976NIR:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js.map   (ca22a1cb)
+2018-08-02T10:49:22.1959212+02:00 0HLFOAJ976NIR:00000002 [INF] Request finished in 84.2683ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T10:49:22.4846894+02:00 0HLFOAJ976NIS:00000003 [INF] Request starting HTTP/1.1 HEAD http://localhost:44301/static/js/webpack.config.js   (ca22a1cb)
+2018-08-02T10:49:22.5220668+02:00 0HLFOAJ976NIS:00000003 [INF] Request finished in 37.4473ms 404 text/html; charset=utf-8 (791a596a)
+2018-08-02T10:49:22.5247606+02:00 0HLFOAJ976NIR:00000003 [INF] Request starting HTTP/1.1 HEAD http://localhost:44301/static/webpack.config.js   (ca22a1cb)
+2018-08-02T10:49:22.5551885+02:00 0HLFOAJ976NIR:00000003 [INF] Request finished in 30.5519ms 404 text/html; charset=utf-8 (791a596a)
+2018-08-02T10:49:22.5583283+02:00 0HLFOAJ976NIS:00000004 [INF] Request starting HTTP/1.1 HEAD http://localhost:44301/webpack.config.js   (ca22a1cb)
+2018-08-02T10:49:22.5918012+02:00 0HLFOAJ976NIS:00000004 [INF] Request finished in 30.7742ms 404 text/html; charset=utf-8 (791a596a)
+2018-08-02T10:49:25.1098906+02:00 0HLFOAJ976NIR:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/info?t=1533199765088   (ca22a1cb)
+2018-08-02T10:49:25.1510955+02:00 0HLFOAJ976NIR:00000004 [INF] Request finished in 41.4035ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T10:49:25.1566629+02:00 0HLFOAJ976NIS:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/722/qm5rzkxe/websocket   (ca22a1cb)
+2018-08-02T10:49:25.8912095+02:00 0HLFOAJ976NIR:00000005 [INF] Request starting HTTP/1.1 POST http://localhost:44301/sockjs-node/722/sbdhp5o5/xhr_streaming?t=1533199765886  0 (ca22a1cb)
+2018-08-02T10:49:26.5110454+02:00 0HLFOAJ976NIT:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-02T10:49:26.5586307+02:00 0HLFOAJ976NIT:00000001 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:49:26.6403905+02:00 0HLFOAJ976NIT:00000001 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:49:28.8147675+02:00 0HLFOAJ976NIT:00000001 [INF] Executed action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 2168.5852ms. (50a9e262)
+2018-08-02T10:49:28.8318118+02:00 0HLFOAJ976NIT:00000001 [INF] Executing ObjectResult, writing value of type '"null"'. (8a1b66c8)
+2018-08-02T10:49:28.8401885+02:00 0HLFOAJ976NIT:00000001 [INF] Executed action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" in 2275.4968ms (afa2e885)
+2018-08-02T10:49:28.8434678+02:00 0HLFOAJ976NIT:00000001 [INF] Request finished in 2332.1198ms 204  (791a596a)
+2018-08-02T10:49:32.5965336+02:00 0HLFOAJ976NIT:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-02T10:49:32.6004723+02:00 0HLFOAJ976NIT:00000002 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:49:32.6221936+02:00 0HLFOAJ976NIT:00000002 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:49:34.7448136+02:00 0HLFOAJ976NIT:00000002 [INF] Executed action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 2120.2171ms. (50a9e262)
+2018-08-02T10:49:34.7473158+02:00 0HLFOAJ976NIT:00000002 [INF] Executing ObjectResult, writing value of type '"null"'. (8a1b66c8)
+2018-08-02T10:49:34.7500434+02:00 0HLFOAJ976NIT:00000002 [INF] Executed action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" in 2146.9873ms (afa2e885)
+2018-08-02T10:49:34.7521339+02:00 0HLFOAJ976NIT:00000002 [INF] Request finished in 2156.347ms 204  (791a596a)
+2018-08-02T10:49:41.6140724+02:00 0HLFOAJ976NIS:00000005 [INF] Request finished in 16453.7548ms 101  (791a596a)
+2018-08-02T10:51:49.4188791+02:00  [INF] Starting create-react-app server on port 51526... (c68a58cd)
+2018-08-02T10:51:49.6930881+02:00 0HLFOAKNO6S78:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:51:49.6930882+02:00 0HLFOAKNO6S79:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/   (ca22a1cb)
+2018-08-02T10:51:49.7240410+02:00 0HLFOAKNO6S78:00000001 [INF] Request finished in 33.1876ms 200  (791a596a)
+2018-08-02T10:51:52.2063762+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (eb706ebf)
+2018-08-02T10:51:57.3891660+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T10:51:57.4039189+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T10:51:57.5080485+02:00 0HLFOAKNO6S79:00000001 [INF] Request finished in 7802.2613ms 304  (791a596a)
+2018-08-02T10:51:57.5982004+02:00 0HLFOAKNO6S78:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js   (ca22a1cb)
+2018-08-02T10:51:57.6625129+02:00 0HLFOAKNO6S78:00000002 [INF] Request finished in 65.0292ms 304  (791a596a)
+2018-08-02T10:51:57.9633554+02:00 0HLFOAKNO6S79:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js.map   (ca22a1cb)
+2018-08-02T10:51:58.0581453+02:00 0HLFOAKNO6S79:00000002 [INF] Request finished in 95.3248ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T10:51:58.3174739+02:00 0HLFOAKNO6S78:00000003 [INF] Request starting HTTP/1.1 HEAD http://localhost:44301/static/js/webpack.config.js   (ca22a1cb)
+2018-08-02T10:51:58.3522656+02:00 0HLFOAKNO6S78:00000003 [INF] Request finished in 35.3078ms 404 text/html; charset=utf-8 (791a596a)
+2018-08-02T10:51:58.3560118+02:00 0HLFOAKNO6S79:00000003 [INF] Request starting HTTP/1.1 HEAD http://localhost:44301/static/webpack.config.js   (ca22a1cb)
+2018-08-02T10:51:58.3903551+02:00 0HLFOAKNO6S79:00000003 [INF] Request finished in 33.7805ms 404 text/html; charset=utf-8 (791a596a)
+2018-08-02T10:51:58.3935755+02:00 0HLFOAKNO6S78:00000004 [INF] Request starting HTTP/1.1 HEAD http://localhost:44301/webpack.config.js   (ca22a1cb)
+2018-08-02T10:51:58.4279259+02:00 0HLFOAKNO6S78:00000004 [INF] Request finished in 34.5427ms 404 text/html; charset=utf-8 (791a596a)
+2018-08-02T10:52:00.8621382+02:00 0HLFOAKNO6S79:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/info?t=1533199920851   (ca22a1cb)
+2018-08-02T10:52:00.9073924+02:00 0HLFOAKNO6S79:00000004 [INF] Request finished in 46.069ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T10:52:00.9131576+02:00 0HLFOAKNO6S78:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/431/axnqnx1k/websocket   (ca22a1cb)
+2018-08-02T10:52:01.6305243+02:00 0HLFOAKNO6S79:00000005 [INF] Request starting HTTP/1.1 POST http://localhost:44301/sockjs-node/431/e05xbgye/xhr_streaming?t=1533199921623  0 (ca22a1cb)
+2018-08-02T10:52:02.4661284+02:00 0HLFOAKNO6S7A:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-02T10:52:02.5116007+02:00 0HLFOAKNO6S7A:00000001 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:52:02.6091976+02:00 0HLFOAKNO6S7A:00000001 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:52:04.0581599+02:00 0HLFOAKNO6S7A:00000001 [INF] Executed action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 1444.0442ms. (50a9e262)
+2018-08-02T10:52:04.0712504+02:00 0HLFOAKNO6S7A:00000001 [INF] Executing ObjectResult, writing value of type '"Newtonsoft.Json.Linq.JObject"'. (8a1b66c8)
+2018-08-02T10:52:04.0842754+02:00 0HLFOAKNO6S7A:00000001 [INF] Executed action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" in 1567.4534ms (afa2e885)
+2018-08-02T10:52:04.0869111+02:00 0HLFOAKNO6S7A:00000001 [INF] Request finished in 1620.7697ms 200 application/json; charset=utf-8 (791a596a)
+2018-08-02T10:52:04.5206976+02:00 0HLFOAKNO6S7A:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/media/glyphicons-halflings-regular.f4769f9b.eot?   (ca22a1cb)
+2018-08-02T10:52:05.5735402+02:00 0HLFOAKNO6S7A:00000002 [INF] Request finished in 1052.2ms 304  (791a596a)
+2018-08-02T10:52:08.3807663+02:00 0HLFOAKNO6S78:00000005 [INF] Request finished in 7463.4983ms 101  (791a596a)
+2018-08-02T10:52:40.3645796+02:00  [INF] Starting create-react-app server on port 51559... (6a24ef37)
+2018-08-02T10:52:40.7054223+02:00 0HLFOAL6URB3O:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:52:40.7294359+02:00 0HLFOAL6URB3O:00000001 [INF] Request finished in 25.5677ms 200  (791a596a)
+2018-08-02T10:52:43.3471026+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (eb706ebf)
+2018-08-02T10:52:45.3443999+02:00 0HLFOAL6URB3O:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/   (ca22a1cb)
+2018-08-02T10:52:48.7373462+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T10:52:48.7397407+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T10:52:48.9155810+02:00 0HLFOAL6URB3P:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js   (ca22a1cb)
+2018-08-02T10:52:48.9435178+02:00 0HLFOAL6URB3O:00000002 [INF] Request finished in 3598.6077ms 200 text/html; charset=UTF-8 (791a596a)
+2018-08-02T10:52:49.0818192+02:00 0HLFOAL6URB3P:00000001 [INF] Request finished in 165.8938ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-08-02T10:52:49.2953154+02:00 0HLFOAL6URB3O:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/favicon.ico   (ca22a1cb)
+2018-08-02T10:52:49.3169957+02:00 0HLFOAL6URB3P:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/info?t=1533199969291   (ca22a1cb)
+2018-08-02T10:52:49.3670704+02:00 0HLFOAL6URB3O:00000003 [INF] Request finished in 73.1036ms 200 image/x-icon (791a596a)
+2018-08-02T10:52:50.4009319+02:00 0HLFOAL6URB3P:00000002 [INF] Request finished in 1102.0726ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T10:52:50.4172907+02:00 0HLFOAL6URB3O:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/341/3bktqdsm/websocket   (ca22a1cb)
+2018-08-02T10:53:00.1646735+02:00 0HLFOAL6URB3P:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-02T10:53:00.2097587+02:00 0HLFOAL6URB3P:00000003 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:53:00.3011176+02:00 0HLFOAL6URB3P:00000003 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:53:00.5079188+02:00 0HLFOAL6URB3P:00000003 [INF] Executed action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 201.3154ms. (50a9e262)
+2018-08-02T10:53:00.5225348+02:00 0HLFOAL6URB3P:00000003 [INF] Executing ObjectResult, writing value of type '"Newtonsoft.Json.Linq.JObject"'. (8a1b66c8)
+2018-08-02T10:53:00.5379560+02:00 0HLFOAL6URB3P:00000003 [INF] Executed action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" in 322.1931ms (afa2e885)
+2018-08-02T10:53:00.5448452+02:00 0HLFOAL6URB3P:00000003 [INF] Request finished in 376.0547ms 200 application/json; charset=utf-8 (791a596a)
+2018-08-02T10:53:00.5956610+02:00 0HLFOAL6URB3P:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/media/glyphicons-halflings-regular.448c34a5.woff2   (ca22a1cb)
+2018-08-02T10:53:01.6462547+02:00 0HLFOAL6URB3P:00000004 [INF] Request finished in 1046.9413ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-08-02T10:53:03.6958642+02:00 0HLFOAL6URB3P:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/SourceFo/SelectionDonneesSourceAsync?premierDateCom=Invalid%20date&derniereDateCom=Invalid%20date&premierFactureDateCom=Invalid%20date&DernierFactureDateCom=Invalid%20date&nom=&prenom=&secteur=   (ca22a1cb)
+2018-08-02T10:53:03.7035894+02:00 0HLFOAL6URB3P:00000005 [INF] Route matched with "{action = \"SelectionDonneesSourceAsync\", controller = \"SourceFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.SourceFoController.SelectionDonneesSourceAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:53:03.7248435+02:00 0HLFOAL6URB3P:00000005 [INF] Executing action method "Diagnostique.FO.Controllers.SourceFoController.SelectionDonneesSourceAsync (Diagnostique.FO)" with arguments (["Invalid date", "Invalid date", "Invalid date", "Invalid date", "", "", ""]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:53:03.8755257+02:00 0HLFOAL6URB3P:00000005 [INF] Executed action method "Diagnostique.FO.Controllers.SourceFoController.SelectionDonneesSourceAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 148.8036ms. (50a9e262)
+2018-08-02T10:53:03.8776368+02:00 0HLFOAL6URB3P:00000005 [INF] Executing ObjectResult, writing value of type '"System.Collections.Generic.List`1[[System.Object, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (8a1b66c8)
+2018-08-02T10:53:03.8814253+02:00 0HLFOAL6URB3P:00000005 [INF] Executed action "Diagnostique.FO.Controllers.SourceFoController.SelectionDonneesSourceAsync (Diagnostique.FO)" in 175.7482ms (afa2e885)
+2018-08-02T10:53:03.8885318+02:00 0HLFOAL6URB3P:00000005 [INF] Request finished in 187.7757ms 200 application/json; charset=utf-8 (791a596a)
+2018-08-02T10:53:05.9897112+02:00 0HLFOAL6URB3P:00000006 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/DestinationFo/SelectionDonneesDITAsync?premierDateCom=Invalid%20date&derniereDateCom=Invalid%20date&premierFactureDateCom=Invalid%20date&dernierFactureDateCom=Invalid%20date&nom=&prenom=&secteur=   (ca22a1cb)
+2018-08-02T10:53:06.0058308+02:00 0HLFOAL6URB3P:00000006 [INF] Route matched with "{action = \"SelectionDonneesDITAsync\", controller = \"DestinationFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.DestinationFoController.SelectionDonneesDITAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:53:06.0284163+02:00 0HLFOAL6URB3P:00000006 [INF] Executing action method "Diagnostique.FO.Controllers.DestinationFoController.SelectionDonneesDITAsync (Diagnostique.FO)" with arguments (["Invalid date", "Invalid date", "Invalid date", "Invalid date", "", "", ""]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:53:06.3187067+02:00 0HLFOAL6URB3P:00000006 [INF] Executed action method "Diagnostique.FO.Controllers.DestinationFoController.SelectionDonneesDITAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 288.0046ms. (50a9e262)
+2018-08-02T10:53:06.3208993+02:00 0HLFOAL6URB3P:00000006 [INF] Executing ObjectResult, writing value of type '"System.Collections.Generic.List`1[[System.Object, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (8a1b66c8)
+2018-08-02T10:53:06.3234126+02:00 0HLFOAL6URB3P:00000006 [INF] Executed action "Diagnostique.FO.Controllers.DestinationFoController.SelectionDonneesDITAsync (Diagnostique.FO)" in 315.4773ms (afa2e885)
+2018-08-02T10:53:06.3266959+02:00 0HLFOAL6URB3P:00000006 [INF] Request finished in 337.0038ms 200 application/json; charset=utf-8 (791a596a)
+2018-08-02T10:56:07.3763218+02:00  [INF] Starting create-react-app server on port 51788... (37206716)
+2018-08-02T10:56:07.8390309+02:00 0HLFOAN4M1T6Q:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T10:56:07.8390309+02:00 0HLFOAN4M1T6P:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/   (ca22a1cb)
+2018-08-02T10:56:07.9022322+02:00 0HLFOAN4M1T6Q:00000001 [INF] Request finished in 45.428ms 200  (791a596a)
+2018-08-02T10:56:10.3823202+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (f7ec60e3)
+2018-08-02T10:56:16.7359965+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T10:56:16.7391777+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T10:56:16.8697770+02:00 0HLFOAN4M1T6P:00000001 [INF] Request finished in 9021.9429ms 304  (791a596a)
+2018-08-02T10:56:16.9168698+02:00 0HLFOAN4M1T6Q:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js   (ca22a1cb)
+2018-08-02T10:56:17.0953830+02:00 0HLFOAN4M1T6Q:00000002 [INF] Request finished in 182.7666ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-08-02T10:56:17.3354030+02:00 0HLFOAN4M1T6P:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/favicon.ico   (ca22a1cb)
+2018-08-02T10:56:17.3361783+02:00 0HLFOAN4M1T6Q:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/info?t=1533200177327   (ca22a1cb)
+2018-08-02T10:56:17.3956440+02:00 0HLFOAN4M1T6Q:00000003 [INF] Request finished in 58.7362ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T10:56:17.4115116+02:00 0HLFOAN4M1T6Q:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/466/32unyhse/websocket   (ca22a1cb)
+2018-08-02T10:56:17.5638947+02:00 0HLFOAN4M1T6R:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/favicon.ico   (ca22a1cb)
+2018-08-02T10:56:17.6376990+02:00 0HLFOAN4M1T6R:00000001 [INF] Request finished in 79.7253ms 200 image/x-icon (791a596a)
+2018-08-02T10:56:18.1836110+02:00 0HLFOAN4M1T6R:00000002 [INF] Request starting HTTP/1.1 POST http://localhost:44301/sockjs-node/466/a3xsuned/xhr_streaming?t=1533200178179  0 (ca22a1cb)
+2018-08-02T10:56:18.4189694+02:00 0HLFOAN4M1T6P:00000002 [INF] Request finished in 1084.3306ms 200 image/x-icon (791a596a)
+2018-08-02T10:56:28.3991037+02:00 0HLFOAN4M1T6P:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-02T10:56:28.4447408+02:00 0HLFOAN4M1T6P:00000003 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:56:28.5229056+02:00 0HLFOAN4M1T6P:00000003 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:56:30.7067101+02:00 0HLFOAN4M1T6P:00000003 [INF] Executed action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 2176.0525ms. (50a9e262)
+2018-08-02T10:56:30.7200216+02:00 0HLFOAN4M1T6P:00000003 [INF] Executing ObjectResult, writing value of type '"null"'. (8a1b66c8)
+2018-08-02T10:56:30.7285591+02:00 0HLFOAN4M1T6P:00000003 [INF] Executed action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" in 2278.1136ms (afa2e885)
+2018-08-02T10:56:30.7326001+02:00 0HLFOAN4M1T6P:00000003 [INF] Request finished in 2332.4899ms 204  (791a596a)
+2018-08-02T10:56:36.4122021+02:00 0HLFOAN4M1T6P:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-02T10:56:36.4143182+02:00 0HLFOAN4M1T6P:00000004 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T10:56:36.4360490+02:00 0HLFOAN4M1T6P:00000004 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)
+2018-08-02T10:56:38.5615031+02:00 0HLFOAN4M1T6P:00000004 [INF] Executed action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 2123.5407ms. (50a9e262)
+2018-08-02T10:56:38.5635148+02:00 0HLFOAN4M1T6P:00000004 [INF] Executing ObjectResult, writing value of type '"null"'. (8a1b66c8)
+2018-08-02T10:56:38.5661886+02:00 0HLFOAN4M1T6P:00000004 [INF] Executed action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" in 2149.2752ms (afa2e885)
+2018-08-02T10:56:38.5684739+02:00 0HLFOAN4M1T6P:00000004 [INF] Request finished in 2155.8331ms 204  (791a596a)
+2018-08-02T12:13:19.5024212+02:00  [INF] Starting create-react-app server on port 61101... (8d7f187a)
+2018-08-02T12:13:19.7471526+02:00 0HLFOC293JL17:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/   (ca22a1cb)
+2018-08-02T12:13:19.7471526+02:00 0HLFOC293JL16:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T12:13:19.7782688+02:00 0HLFOC293JL16:00000001 [INF] Request finished in 32.1559ms 200  (791a596a)
+2018-08-02T12:13:22.1760003+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (f7ec60e3)
+2018-08-02T12:13:27.1787620+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T12:13:27.1806574+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T12:13:27.3559840+02:00 0HLFOC293JL17:00000001 [INF] Request finished in 7560.5917ms 304  (791a596a)
+2018-08-02T12:13:27.3716382+02:00 0HLFOC293JL16:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js   (ca22a1cb)
+2018-08-02T12:13:27.4397826+02:00 0HLFOC293JL16:00000002 [INF] Request finished in 74.028ms 304  (791a596a)
+2018-08-02T12:13:27.6794880+02:00 0HLFOC293JL17:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/info?t=1533204807662   (ca22a1cb)
+2018-08-02T12:13:27.7245405+02:00 0HLFOC293JL17:00000002 [INF] Request finished in 43.4264ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T12:13:27.7291962+02:00 0HLFOC293JL16:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/favicon.ico   (ca22a1cb)
+2018-08-02T12:13:27.7547812+02:00 0HLFOC293JL17:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/745/dvgpknvs/websocket   (ca22a1cb)
+2018-08-02T12:13:27.7696461+02:00 0HLFOC293JL16:00000003 [INF] Request finished in 41.3903ms 304  (791a596a)
+2018-08-02T12:13:28.4665040+02:00 0HLFOC293JL16:00000004 [INF] Request starting HTTP/1.1 POST http://localhost:44301/sockjs-node/745/mq0z4l0m/xhr_streaming?t=1533204808461  0 (ca22a1cb)
+2018-08-02T12:13:30.6847153+02:00 0HLFOC293JL18:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-02T12:13:30.7243050+02:00 0HLFOC293JL18:00000001 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T12:13:30.8044445+02:00 0HLFOC293JL18:00000001 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)
+2018-08-02T12:13:33.0000316+02:00 0HLFOC293JL18:00000001 [INF] Executed action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 2190.331ms. (50a9e262)
+2018-08-02T12:13:33.0134336+02:00 0HLFOC293JL18:00000001 [INF] Executing ObjectResult, writing value of type '"null"'. (8a1b66c8)
+2018-08-02T12:13:33.0209219+02:00 0HLFOC293JL18:00000001 [INF] Executed action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" in 2291.6651ms (afa2e885)
+2018-08-02T12:13:33.0253576+02:00 0HLFOC293JL18:00000001 [INF] Request finished in 2338.6109ms 204  (791a596a)
+2018-08-02T12:20:44.7389842+02:00  [INF] Starting create-react-app server on port 61399... (0e973a7f)
+2018-08-02T12:20:44.9464498+02:00 0HLFOC6DPCCEJ:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:52248/  0 (ca22a1cb)
+2018-08-02T12:20:44.9464499+02:00 0HLFOC6DPCCEK:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44301/   (ca22a1cb)
+2018-08-02T12:20:44.9741110+02:00 0HLFOC6DPCCEJ:00000001 [INF] Request finished in 30.0615ms 200  (791a596a)
+2018-08-02T12:20:47.3050624+02:00  [INF] > Diagnostique_Client@0.1.0 start F:\Desktop\fresh_app\DiagnostiquesDECONNECTE\Diagnostique.FO\ClientApp
+> rimraf ./build && react-scripts start
+
+Starting the development server...
+ (f7ec60e3)
+2018-08-02T12:20:52.2802500+02:00  [INF] 
+Compiled with warnings.
+ (4f152e70)
+2018-08-02T12:20:52.2818947+02:00  [INF] 
+./src/index.js
+ (188296c6)
+2018-08-02T12:20:52.4012630+02:00 0HLFOC6DPCCEK:00000001 [INF] Request finished in 7456.5727ms 304  (791a596a)
+2018-08-02T12:20:52.4568196+02:00 0HLFOC6DPCCEJ:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/static/js/bundle.js   (ca22a1cb)
+2018-08-02T12:20:52.5202271+02:00 0HLFOC6DPCCEJ:00000002 [INF] Request finished in 64.9845ms 304  (791a596a)
+2018-08-02T12:20:52.7568864+02:00 0HLFOC6DPCCEK:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44301/favicon.ico   (ca22a1cb)
+2018-08-02T12:20:52.7570572+02:00 0HLFOC6DPCCEJ:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/info?t=1533205252742   (ca22a1cb)
+2018-08-02T12:20:52.8238835+02:00 0HLFOC6DPCCEK:00000002 [INF] Request finished in 70.8746ms 200 image/x-icon (791a596a)
+2018-08-02T12:20:53.8238743+02:00 0HLFOC6DPCCEJ:00000003 [INF] Request finished in 1067.1377ms 200 application/json; charset=UTF-8 (791a596a)
+2018-08-02T12:20:53.8411343+02:00 0HLFOC6DPCCEK:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44301/sockjs-node/764/cbaeahir/websocket   (ca22a1cb)
+2018-08-02T12:21:50.5772735+02:00 0HLFOC6DPCCEJ:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44301/api/LoginFo/GetUserInfosAsync?mail=drfr@gmail.com&mdp=123456   (ca22a1cb)
+2018-08-02T12:21:50.6159210+02:00 0HLFOC6DPCCEJ:00000004 [INF] Route matched with "{action = \"GetUserInfosAsync\", controller = \"LoginFo\", page = \"\"}". Executing action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" (a44c0341)
+2018-08-02T12:21:50.7014391+02:00 0HLFOC6DPCCEJ:00000004 [INF] Executing action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" with arguments (["drfr@gmail.com", "123456"]) - Validation state: Valid (4e3479ed)
+2018-08-02T12:21:52.8743523+02:00 0HLFOC6DPCCEJ:00000004 [INF] Executed action method "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 2166.3995ms. (50a9e262)
+2018-08-02T12:21:52.8875171+02:00 0HLFOC6DPCCEJ:00000004 [INF] Executing ObjectResult, writing value of type '"null"'. (8a1b66c8)
+2018-08-02T12:21:52.8962007+02:00 0HLFOC6DPCCEJ:00000004 [INF] Executed action "Diagnostique.FO.Controllers.LoginFoController.GetUserInfosAsync (Diagnostique.FO)" in 2274.2182ms (afa2e885)
+2018-08-02T12:21:52.9011460+02:00 0HLFOC6DPCCEJ:00000004 [INF] Request finished in 2322.7035ms 204  (791a596a)
